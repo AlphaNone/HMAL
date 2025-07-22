@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HMAL"
+rootProject.name = "中国反诈中心"
 
 include(
     ":app",
