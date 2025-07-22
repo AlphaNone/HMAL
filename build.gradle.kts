@@ -30,6 +30,7 @@ val appVerName by extra("3.5")
 val configVerCode by extra(90)
 val serviceVerCode by extra(97)
 val minBackupVerCode by extra(65)
+val appPackageName by extra("com.hicorenational.antifraud")
 
 val androidSourceCompatibility = JavaVersion.VERSION_21
 val androidTargetCompatibility = JavaVersion.VERSION_21
