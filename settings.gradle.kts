@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "中国反诈中心"
+rootProject.name = "zhongguofanzha"
 
 include(
     ":app",
